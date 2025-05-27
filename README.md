@@ -17,10 +17,10 @@
 
 ## 📦 Technologies Used
 
-- Python / Django (or your chosen framework)
-- Django REST Framework
-- AI/ML model for meal planning (specify if used: e.g., GPT, custom model, etc.)
-- JWT authentication (optional)
+- Node js
+- Node js REST Framework API
+- Cohear AI
+- JWT authentication 
 
 ## 📌 Installation
 
